@@ -1,2 +1,1 @@
-# first-quirelco
- Another Project for Quirelco
+# Quirelco Project
